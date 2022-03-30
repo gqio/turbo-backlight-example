@@ -1,3 +1,8 @@
+```sh
+cd packages/ui
+npx backlight serve rCJkjZvk0F04fxlGEmbX --open
+```
+
 # Turborepo starter
 
 This is an official Yarn v1 starter turborepo.
